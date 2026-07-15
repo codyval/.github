@@ -4,7 +4,7 @@ Cody and Val building things together.
 
 ## What we're working on
 
-- **[Hookie](https://github.com/hookie-sh/hookie)** — Open-source webhook fan-out with Redis Streams and gRPC-based CLI delivery.
+- **[Hookie](https://hookie.sh)** — Open-source webhook fan-out with Redis Streams and gRPC-based CLI delivery.
 
 ## Who
 
